@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "NLP"
+  site-url: "https://nextrick.github.io/NLP"
+  description: "This is nextrick natural language processing course"
+  repo-branch: main
+  repo-url: "https://github.com/nextrick/NLP"
